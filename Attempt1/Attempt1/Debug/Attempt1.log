@@ -1,5 +1,0 @@
-﻿  Attempt1.cpp
-X:\учеба\кодю\Attempt1\Attempt1\Attempt1.cpp(40,21): warning C4018: <: несоответствие типов со знаком и без знака
-X:\учеба\кодю\Attempt1\Attempt1\Attempt1.cpp(51,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-X:\учеба\кодю\Attempt1\Attempt1\Attempt1.cpp(262,6): warning C4101: ll: неиспользованная локальная переменная
-  Attempt1.vcxproj -> X:\учеба\кодю\Attempt1\Attempt1\Debug\Attempt1.exe
